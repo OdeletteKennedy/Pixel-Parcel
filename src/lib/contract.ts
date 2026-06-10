@@ -9,6 +9,5 @@ export const hasPixelParcelAddress = /^0x[a-fA-F0-9]{40}$/.test(
   pixelParcelAddress,
 );
 
-// Replace with the ERC-8021 encoded builder code after base.dev verification.
 export const baseAttributionDataSuffix =
-  "0x62635f706978656c5f70617263656c" as Hex;
+  "0x62635f7470796a70616b6c0b0080218021802180218021802180218021" as Hex;
