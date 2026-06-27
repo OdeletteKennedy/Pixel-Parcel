@@ -7,3 +7,11 @@ Repository: [https://github.com/OdeletteKennedy/Pixel-Parcel.git](https://github
 ## Overview
 
 PixelParcel provides a modern starting point for a web application built with Next.js.
+
+The project uses the Next.js App Router structure and includes the default development workflow for local editing, previewing, and deployment.
+
+It also uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to optimize and load the Geist font family.
+
+## Features
+
+- Built with Next.js
