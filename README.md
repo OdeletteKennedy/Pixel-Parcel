@@ -100,3 +100,12 @@ Save changes to see them reflected in the browser during development.
 ## Project Structure
 
 A typical Next.js project includes files and folders such as:
+
+```text
+app/
+public/
+package.json
+next.config.*
+```
+
+The `app` directory contains application routes and pages.
