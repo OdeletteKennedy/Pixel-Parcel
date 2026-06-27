@@ -49,3 +49,12 @@ Move into the project directory:
 
 ```bash
 cd Pixel-Parcel
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+If you prefer another package manager, use the equivalent install command for that tool.
