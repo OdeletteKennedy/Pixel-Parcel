@@ -58,3 +58,11 @@ npm install
 ```
 
 If you prefer another package manager, use the equivalent install command for that tool.
+
+## Development
+
+Start the development server:
+
+```bash
+npm run dev
+```
