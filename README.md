@@ -143,3 +143,11 @@ npm run lint
 ## Fonts
 
 PixelParcel uses the Geist font family through Next.js font optimization.
+
+This is handled with [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts), which helps load fonts efficiently.
+
+## Deployment
+
+PixelParcel can be deployed wherever Next.js applications are supported.
+
+For a common deployment path, review the official Next.js deployment documentation:
