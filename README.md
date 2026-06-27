@@ -75,3 +75,12 @@ yarn dev
 
 ```bash
 pnpm dev
+```
+
+```bash
+bun dev
+```
+
+Open your browser and visit:
+
+[http://localhost:3000](http://localhost:3000)
