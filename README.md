@@ -40,3 +40,12 @@ You will also need a package manager such as:
 ## Installation
 
 Clone the repository:
+
+```bash
+git clone https://github.com/OdeletteKennedy/Pixel-Parcel.git
+```
+
+Move into the project directory:
+
+```bash
+cd Pixel-Parcel
