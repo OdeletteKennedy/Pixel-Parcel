@@ -135,3 +135,11 @@ npm run start
 ```
 
 Run linting if it is configured in the project:
+
+```bash
+npm run lint
+```
+
+## Fonts
+
+PixelParcel uses the Geist font family through Next.js font optimization.
