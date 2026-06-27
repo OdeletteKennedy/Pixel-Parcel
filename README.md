@@ -15,3 +15,11 @@ It also uses [`next/font`](https://nextjs.org/docs/app/building-your-application
 ## Features
 
 - Built with Next.js
+- Bootstrapped with `create-next-app`
+- App Router project structure
+- Local development server with fast refresh
+- Editable main page in `app/page.tsx`
+- Optimized font loading with `next/font`
+- Ready for deployment on platforms that support Next.js
+
+## Getting Started
