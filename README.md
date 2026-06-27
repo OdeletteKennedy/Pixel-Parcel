@@ -117,3 +117,12 @@ The `package.json` file defines scripts and dependencies for the project.
 ## Available Scripts
 
 Run the development server:
+
+```bash
+npm run dev
+```
+
+Create a production build:
+
+```bash
+npm run build
