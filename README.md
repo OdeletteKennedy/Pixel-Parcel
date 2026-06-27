@@ -151,3 +151,12 @@ This is handled with [`next/font`](https://nextjs.org/docs/app/building-your-app
 PixelParcel can be deployed wherever Next.js applications are supported.
 
 For a common deployment path, review the official Next.js deployment documentation:
+
+[Next.js Deployment Documentation](https://nextjs.org/docs/app/building-your-application/deploying)
+
+## Learn More
+
+To learn more about Next.js, visit the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Learn Next.js](https://nextjs.org/learn)
