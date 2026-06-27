@@ -160,3 +160,12 @@ To learn more about Next.js, visit the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Learn Next.js](https://nextjs.org/learn)
+- [Next.js GitHub Repository](https://github.com/vercel/next.js)
+
+## Notes
+
+This README is intended to provide a clear starting point for working with PixelParcel.
+
+Update this document as the application grows and more project-specific behavior is added.
+
+Include setup details, environment requirements, and usage examples as they become relevant.
