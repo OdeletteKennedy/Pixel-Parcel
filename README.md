@@ -66,3 +66,12 @@ Start the development server:
 ```bash
 npm run dev
 ```
+
+You can also use one of the following commands:
+
+```bash
+yarn dev
+```
+
+```bash
+pnpm dev
