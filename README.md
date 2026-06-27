@@ -31,3 +31,12 @@ Follow the steps below to run PixelParcel locally.
 Make sure you have Node.js installed on your machine.
 
 You will also need a package manager such as:
+
+- npm
+- yarn
+- pnpm
+- bun
+
+## Installation
+
+Clone the repository:
