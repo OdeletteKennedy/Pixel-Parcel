@@ -23,3 +23,11 @@ It also uses [`next/font`](https://nextjs.org/docs/app/building-your-application
 - Ready for deployment on platforms that support Next.js
 
 ## Getting Started
+
+Follow the steps below to run PixelParcel locally.
+
+## Prerequisites
+
+Make sure you have Node.js installed on your machine.
+
+You will also need a package manager such as:
