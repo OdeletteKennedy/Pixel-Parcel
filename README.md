@@ -125,3 +125,11 @@ next.config.*
 ```
 
 The `app` directory contains application routes, layouts, and pages.
+
+The `public` directory is used for static assets such as images and icons.
+
+The `package.json` file defines project scripts, dependencies, and package metadata.
+
+The `next.config.*` file is used for Next.js configuration when configuration is needed.
+
+## Available Scripts
