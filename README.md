@@ -96,3 +96,11 @@ bun dev
 ```
 
 After the server starts, open your browser and visit:
+
+[http://localhost:3000](http://localhost:3000)
+
+The application will reload automatically as you edit the source files.
+
+## Editing the Application
+
+The main page is located at:
