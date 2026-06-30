@@ -173,3 +173,13 @@ Before deploying, create a production build locally to confirm that the applicat
 ```bash
 npm run build
 ```
+
+For deployment guidance, refer to the official Next.js documentation:
+
+[Next.js Deployment Documentation](https://nextjs.org/docs/app/building-your-application/deploying)
+
+## Learn More
+
+Use the following resources to learn more about Next.js:
+
+- [Next.js Documentation](https://nextjs.org/docs)
