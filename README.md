@@ -56,3 +56,13 @@ Install the project dependencies:
 ```bash
 npm install
 ```
+
+If you use another package manager, run the equivalent install command for that tool.
+
+For example:
+
+```bash
+yarn install
+```
+
+```bash
