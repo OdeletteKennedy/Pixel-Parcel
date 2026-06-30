@@ -76,3 +76,13 @@ bun install
 ## Development
 
 Start the development server with npm:
+
+```bash
+npm run dev
+```
+
+You can also start the development server with another supported package manager:
+
+```bash
+yarn dev
+```
