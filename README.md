@@ -66,3 +66,13 @@ yarn install
 ```
 
 ```bash
+pnpm install
+```
+
+```bash
+bun install
+```
+
+## Development
+
+Start the development server with npm:
