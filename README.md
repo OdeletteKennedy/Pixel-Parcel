@@ -46,3 +46,13 @@ git clone https://github.com/OdeletteKennedy/Pixel-Parcel.git
 ```
 
 Move into the project directory:
+
+```bash
+cd Pixel-Parcel
+```
+
+Install the project dependencies:
+
+```bash
+npm install
+```
