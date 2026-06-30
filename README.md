@@ -86,3 +86,13 @@ You can also start the development server with another supported package manager
 ```bash
 yarn dev
 ```
+
+```bash
+pnpm dev
+```
+
+```bash
+bun dev
+```
+
+After the server starts, open your browser and visit:
