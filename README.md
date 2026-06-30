@@ -104,3 +104,13 @@ The application will reload automatically as you edit the source files.
 ## Editing the Application
 
 The main page is located at:
+
+```text
+app/page.tsx
+```
+
+Edit this file to change the default page content.
+
+When the development server is running, saved changes will appear in the browser automatically.
+
+## Project Structure
