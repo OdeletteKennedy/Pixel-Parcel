@@ -18,3 +18,12 @@ It also uses [`next/font`](https://nextjs.org/docs/app/building-your-application
 - Created with `create-next-app`
 - Uses the App Router project structure
 - Includes a local development server with fast refresh
+- Main page can be edited in `app/page.tsx`
+- Uses optimized font loading through `next/font`
+- Suitable for deployment on platforms that support Next.js
+
+## Getting Started
+
+Follow the steps below to run PixelParcel on your local machine.
+
+## Prerequisites
