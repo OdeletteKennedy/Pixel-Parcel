@@ -133,3 +133,14 @@ The `package.json` file defines project scripts, dependencies, and package metad
 The `next.config.*` file is used for Next.js configuration when configuration is needed.
 
 ## Available Scripts
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Create a production build:
+
+```bash
+npm run build
