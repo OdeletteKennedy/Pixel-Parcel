@@ -114,3 +114,14 @@ Edit this file to change the default page content.
 When the development server is running, saved changes will appear in the browser automatically.
 
 ## Project Structure
+
+A typical PixelParcel project structure includes:
+
+```text
+app/
+public/
+package.json
+next.config.*
+```
+
+The `app` directory contains application routes, layouts, and pages.
